@@ -45,7 +45,7 @@ header p {
 
 #home {
     height: 80vh;
-    background-image: url(pexels-brandandpalms-768939.webp);
+    background-image: url(img/pexels-brandandpalms-768939.webp);
     background-size: contain;
     background-repeat: no-repeat;
     display: flex;
@@ -229,4 +229,5 @@ footer p, footer a {
     #home a {
         width: 50%;
     }
+
 }
